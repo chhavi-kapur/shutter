@@ -3,7 +3,7 @@
 Features <br>
 • Create an account<br>
 • Sign in and sign out <br>
-• Edit profile information
+• Edit profile information <br>
 • Upload a profile picture by camera and from phone gallery <br>
 • Upload an image/post <br>
 • Like and comment on post <br>
