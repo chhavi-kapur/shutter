@@ -1,5 +1,7 @@
 # Shutter: Social media platform using Android, Firebase, MySQL <br><br>
 
+Full Demo: https://www.youtube.com/watch?v=J4KPvZFGM_0
+
 Features <br>
 • Create an account<br>
 • Sign in and sign out <br>
